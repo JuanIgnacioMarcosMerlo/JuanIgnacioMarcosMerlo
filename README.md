@@ -9,7 +9,7 @@
 
 - 👨‍💻**Porfolio:** [https://porfoliojuanignaciomarcosmerlo.vercel.app/](https://porfoliojuanignaciomarcosmerlo.vercel.app/)
 
-- 💬 **Sobre mi: Estudiante de la Tecnicatura en Programacíon en UNAB. Me propongo generar un buen clima en el ámbito del trabajo en equipo.Soy deseoso de aprender nuevas habilidades y conocimientos,principalmente con el stack MERN. Me autodefino como una persona proactiva, trabajadora, ambiciosa,colaboradora, decidida, serio, prudente y capaz de trabajar solo o enequipo para lograr mis objetivos tanto personales como profesionales. Mi mayor fortaleza reside en mi predisposición para resolver conflictos y/osortear obstáculos.**
+- 💬 **Sobre mi: Estudiante de la Tecnicatura en Programacíon en UNAB. Me propongo generar un buen clima en el ámbito del trabajo en equipo. Soy deseoso de aprender nuevas habilidades y conocimientos,principalmente con el stack MERN. Me autodefino como una persona proactiva, trabajadora, ambiciosa,colaboradora, decidida, serio, prudente y capaz de trabajar solo o enequipo para lograr mis objetivos tanto personales como profesionales. Mi mayor fortaleza reside en mi predisposición para resolver conflictos y/osortear obstáculos.**
 
 - 📫**Contactame: juanimarcosmerlo@gmail.com**
 
