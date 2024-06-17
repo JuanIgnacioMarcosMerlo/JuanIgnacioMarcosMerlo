@@ -13,6 +13,8 @@
 
 - 📫**Contactame: juanimarcosmerlo@gmail.com**
 
+- 💼 **CV**: <a href="https://drive.google.com/file/d/1sQ8WBtFC4EFsjmK1msDZz3rDBXyn-7w3/view" target="blank" download> <img src="https://cdns.iconmonstr.com/wp-content/releases/preview/2021/240/iconmonstr-cv-4.png" align="center" heighr="30" width="40" alt="cv_JuanIgnacioMarcosMerlo"/> </a>
+
 <h3 align="left">Conectate conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/juan-ignacio-marcos-merlo-8968aa270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-ignacio-marcos-merlo-8968aa270" height="30" width="40" /></a>
