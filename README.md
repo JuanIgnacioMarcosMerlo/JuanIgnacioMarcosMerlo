@@ -5,19 +5,19 @@
 
 - 🔭 **Actualmente estoy en busqueda de mi primer trabajo IT.**
 
-- 🌱**Actualmente estoy aprendiendo: Php con su framework Laravel y a su vez RPA con UiPath y Blue Prims, ambos en Udemy.**
+- 🌱 **Actualmente estoy aprendiendo: Php con su framework Laravel y a su vez RPA con UiPath y Blue Prims, ambos en Udemy.**
 
 - 👨‍💻**Porfolio:** [https://porfoliojuanignaciomarcosmerlo.vercel.app/](https://porfoliojuanignaciomarcosmerlo.vercel.app/)
 
 - 💬 **Sobre mi: Estudiante de la Tecnicatura en Programacíon en UNAB. Me propongo generar un buen clima en el ámbito del trabajo en equipo. Soy deseoso de aprender nuevas habilidades y conocimientos,principalmente con el stack MERN. Me autodefino como una persona proactiva, trabajadora, ambiciosa,colaboradora, decidida, serio, prudente y capaz de trabajar solo o enequipo para lograr mis objetivos tanto personales como profesionales. Mi mayor fortaleza reside en mi predisposición para resolver conflictos y/o sortear obstáculos.**
 
-- 📫**Contactame: juanimarcosmerlo@gmail.com**
+- 📫 **Contactame: juanimarcosmerlo@gmail.com**
 
-- 💼 **CV**: <a href="https://drive.google.com/file/d/1sQ8WBtFC4EFsjmK1msDZz3rDBXyn-7w3/view" target="blank" download> <img src="https://cdns.iconmonstr.com/wp-content/releases/preview/2021/240/iconmonstr-cv-4.png" align="center" heighr="30" width="40" alt="cv_JuanIgnacioMarcosMerlo"/> </a>
+- 💼 **Curriculum vitae**: <a href="https://drive.google.com/file/d/1sQ8WBtFC4EFsjmK1msDZz3rDBXyn-7w3/view" target="_blank" download> <img src="https://w7.pngwing.com/pngs/967/480/png-transparent-curriculum-vitae-resume-computer-icons-job-hunting-application-for-employment-cv-word-text-resume-employment.png" align="center" heighr="30" width="40" alt="cv_JuanIgnacioMarcosMerlo"/> </a>
 
 <h3 align="left">Conectate conmigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/juan-ignacio-marcos-merlo-8968aa270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-ignacio-marcos-merlo-8968aa270" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/juan-ignacio-marcos-merlo-8968aa270" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-ignacio-marcos-merlo-8968aa270" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Habilidades:</h3>
