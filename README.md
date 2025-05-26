@@ -9,9 +9,6 @@
 
 - 🔭 **Actualmente estoy en busqueda de mi primer trabajo IT.**
 
-- 🌱 **Actualmente estoy aprendiendo: Php con su framework Laravel y a su vez RPA con UiPath y Blue Prims, ambos en Udemy.**
-
-- 👨‍💻**Porfolio:** [https://porfoliojuanignaciomarcosmerlo.vercel.app/](https://porfoliojuanignaciomarcosmerlo.vercel.app/)
 
 - 💬 **Sobre mi: Me destaco como desarrollador COBOL en entornos MAINFRAME, con sólidos conocimientos en programación estructurada, manejo eficiente de sistemas legados y un fuerte compromiso con la optimización de procesos. Disfruto trabajando en equipo, donde puedo aportar soluciones técnicas claras y efectivas, siempre enfocado en cumplir objetivos y superar 
                   desafíos.<br/><br/>
@@ -23,6 +20,7 @@
 
 - 💼 **Curriculum vitae**: <a href="https://drive.google.com/file/d/15fyyON7X8YtyoGyZD2Ja2c-c81RKh1lz/view?usp=sharing" target="_blank" download="CV_JuanIgnacio-MarcosMerlo.pdf"> <img src="https://github.com/user-attachments/assets/0a3ba7b7-712f-4af5-85d8-29708e9657d2" align="center" heighr="30" width="40" alt="cv_JuanIgnacioMarcosMerlo"/> </a>
 
+- 👨‍💻**Porfolio:** [https://porfoliojuanignaciomarcosmerlo.vercel.app/](https://porfoliojuanignaciomarcosmerlo.vercel.app/)
 
 <h3 align="left">Conectate conmigo:</h3>
 <p align="left">
