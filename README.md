@@ -21,7 +21,8 @@
 
 - 📫 **Contactame: juanimarcosmerlo@gmail.com**
 
-- 💼 **Curriculum vitae**: <a href="https://drive.google.com/file/d/15fyyON7X8YtyoGyZD2Ja2c-c81RKh1lz/view?usp=sharing" target="_blank" download="CV_JuanIgnacio-MarcosMerlo.pdf"> <img src="https://w7.pngwing.com/pngs/967/480/png-transparent-curriculum-vitae-resume-computer-icons-job-hunting-application-for-employment-cv-word-text-resume-employment.png" align="center" heighr="30" width="40" alt="cv_JuanIgnacioMarcosMerlo"/> </a>
+- 💼 **Curriculum vitae**: <a href="https://drive.google.com/file/d/15fyyON7X8YtyoGyZD2Ja2c-c81RKh1lz/view?usp=sharing" target="_blank" download="CV_JuanIgnacio-MarcosMerlo.pdf"> <img src="https://github.com/user-attachments/assets/0a3ba7b7-712f-4af5-85d8-29708e9657d2" align="center" heighr="30" width="40" alt="cv_JuanIgnacioMarcosMerlo"/> </a>
+
 
 <h3 align="left">Conectate conmigo:</h3>
 <p align="left">
