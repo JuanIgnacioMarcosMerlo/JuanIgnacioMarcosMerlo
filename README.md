@@ -1,4 +1,4 @@
-<p><img src="https://drive.google.com/file/d/1rycqZU0vPdNAulvn8cPyd6D5_e3S6mLY/view?usp=sharing"></p>
+<p><img src="https://drive.google.com/file/d/1rycqZU0vPdNAulvn8cPyd6D5_e3S6mLY/view?usp=sharing" heigth="100%" width="100%" alt="juan-ignacio-marcos-merlo-banner"></p>
 
 <h1 align="center">Buenos días 👋, soy Juan Ignacio Marcos Merlo.</h1>
 <h3 align="center">Desarrollador COBOL en entornos MAINFRAME</h3>
@@ -23,7 +23,7 @@
 
 <h3 align="left">Conectate conmigo:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/juan-ignacio-marcos-merlo/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-ignacio-marcos-merlo-8968aa270" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/juan-ignacio-marcos-merlo/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-ignacio-marcos-merlo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Habilidades:</h3>
