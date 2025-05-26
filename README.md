@@ -17,11 +17,11 @@
 
 - 📫 **Contactame: juanimarcosmerlo@gmail.com**
 
-- 💼 **Curriculum vitae**: <a href="https://drive.google.com/file/d/1sQ8WBtFC4EFsjmK1msDZz3rDBXyn-7w3/view" target="_blank" download="CV-JuanIgnacioMarcosMerlo.pdf"> <img src="https://w7.pngwing.com/pngs/967/480/png-transparent-curriculum-vitae-resume-computer-icons-job-hunting-application-for-employment-cv-word-text-resume-employment.png" align="center" heighr="30" width="40" alt="cv_JuanIgnacioMarcosMerlo"/> </a>
+- 💼 **Curriculum vitae**: <a href="https://drive.google.com/drive/u/0/folders/1QbGoB7CfhGcPfeQf3beuV8BRrdDRi43i" target="_blank" download="CV_JuanIgnacio-MarcosMerlo.pdf"> <img src="https://w7.pngwing.com/pngs/967/480/png-transparent-curriculum-vitae-resume-computer-icons-job-hunting-application-for-employment-cv-word-text-resume-employment.png" align="center" heighr="30" width="40" alt="cv_JuanIgnacioMarcosMerlo"/> </a>
 
 <h3 align="left">Conectate conmigo:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/juan-ignacio-marcos-merlo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-ignacio-marcos-merlo-8968aa270" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/juan-ignacio-marcos-merlo/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-ignacio-marcos-merlo-8968aa270" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Habilidades:</h3>
