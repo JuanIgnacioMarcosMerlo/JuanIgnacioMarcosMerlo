@@ -1,4 +1,6 @@
-<p><img src="https://imgur.com/bw0Orop" align="center" heigth="100%" width="100%" alt="juan-ignacio-marcos-merlo-banner"/></p>
+<p align="center">
+  <img src="https://i.imgur.com/bw0Orop.png" alt="juan-ignacio-marcos-merlo-banner" width="100%" />
+</p>
 
 <h1 align="center">Buenos días 👋, soy Juan Ignacio Marcos Merlo.</h1>
 <h3 align="center">Desarrollador COBOL en entornos MAINFRAME</h3>
