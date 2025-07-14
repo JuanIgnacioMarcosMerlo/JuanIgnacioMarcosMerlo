@@ -34,6 +34,7 @@
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/8/82/IBM_CICS_Transaction_Server_for_z-OS_app_icon.svg" alt="CICS" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+   <a href="https://learn.microsoft.com/es-es/collections/yz26f8y64n7k07?WT.mc_id=dotnet-35129-website" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/C_Sharp_Logo_2023.svg" alt="C#" width="40" height="40"/> </a> 
   <a href="https://dotnet.microsoft.com/es-es/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt=".NET" width="40" height="40"/> </a> 
   <a href="https://www.java.com/es/" target="_blank" rel="noreferrer"> <img src="https://images.icon-icons.com/2699/PNG/512/java_logo_icon_169577.png" alt="JAVA" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
