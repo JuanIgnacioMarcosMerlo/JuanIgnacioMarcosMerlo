@@ -10,7 +10,7 @@
 - 🔭 **Actualmente estoy en busqueda de mi primer trabajo IT.**
 
 
-- 💬 **Sobre mi: Me destaco como desarrollador COBOL en entornos MAINFRAME, con sólidos conocimientos en programación estructurada, manejo eficiente de sistemas legados y un fuerte compromiso con la optimización de procesos. Disfruto trabajando en equipo, donde puedo aportar soluciones técnicas claras y efectivas, siempre enfocado en cumplir objetivos y superar 
+- 💬 **Sobre mi: Me destaco como desarrollador COBOL en entornos MAINFRAME, conocimientos en programación estructurada, manejo eficiente de sistemas legados y un fuerte compromiso con la optimización de procesos. Disfruto trabajando en equipo, donde puedo aportar soluciones técnicas claras y efectivas, siempre enfocado en cumplir objetivos y superar 
                   desafíos.<br/><br/>
                   Soy una persona meticulosa, responsable y dedicada. Valoro el trabajo bien hecho, el aprendizaje constante y la mejora continua. Mi formación y experiencia me han permitido desarrollar una visión integral que combina lo mejor del mundo tradicional con herramientas y metodologías modernas.<br/><br/>
                   Además del ecosistema Mainframe (COBOL, CICS, DB2, JCL, TSO/ISPF, VSAM/QSAM), cuento con conocimientos en tecnologías modernas como React, Node.js, Spring Boot, ASP.NET, y herramientas de desarrollo como Docker, Git, AWS, y bases de datos SQL y NoSQL.<br/><br/>
