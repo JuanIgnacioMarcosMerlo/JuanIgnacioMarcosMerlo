@@ -30,8 +30,8 @@
 <h3 align="left">Habilidades:</h3>
 <p align="left"> 
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/borrowbits.com/wp-content/uploads/2013/07/cobol.gif" alt="COBOL" width="40" height="40"/> </a>
-  <a href="#" target="_blank" rel="noreferrer"> <img src="https://icons.veryicon.com/png/o/education-technology/onemind/db2.png" alt="DB2" width="40" height="40"/> </a> 
-  <a href="#" target="_blank" rel="noreferrer"> <img src="https://en.wikipedia.org/wiki/CICS#/media/File:IBM_CICS_Transaction_Server_for_z-OS_app_icon.svg" alt="CICS" width="40" height="40"/> </a>
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://dbdb.io/media/logos/ibm-db2-vertical.svg" alt="DB2" width="40" height="40"/> </a> 
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/8/82/IBM_CICS_Transaction_Server_for_z-OS_app_icon.svg" alt="CICS" width="40" height="40"/> </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
