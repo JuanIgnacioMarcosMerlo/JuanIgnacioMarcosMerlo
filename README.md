@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-# Buenos días 👋, soy Juan Ignacio Marcos Merlo.
+ Buenos días 👋, soy Juan Ignacio Marcos Merlo.
 </h1>
 <h3 align="center">Desarrollador COBOL en entornos MAINFRAME</h3>
 
