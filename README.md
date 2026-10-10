@@ -5,8 +5,7 @@
 
 
 <div align="center">
-  
-  ### 👋 Buenos días, soy **Juan Ignacio Marcos Merlo**
+  <h3>👋 <font size="6">Buenos días, soy <b>Juan Ignacio Marcos Merlo</b></font></h3>
 
   <a href="https://www.linkedin.com/in/juan-ignacio-marcos-merlo/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
