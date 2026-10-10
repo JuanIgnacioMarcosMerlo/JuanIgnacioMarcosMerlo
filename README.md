@@ -81,8 +81,12 @@
 
   <h4><strong>[ Bases de Datos ]</strong></h4>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <a href="https://dev.mysql.com/doc/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  </a>
+  <a href="https://www.mongodb.com/docs/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  </a>
 
   <h4><strong>[ Otras tecnologías ]</strong></h4>
   <a href="https://docs.python.org/3/" target="_blank" rel="noopener noreferrer">
@@ -118,11 +122,21 @@
   <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white" alt="Trello" />
 
   <h4><strong>[ Herramientas y Entornos ]</strong></h4>
+  <a href="https://git-scm.com/docs/git" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white" alt="GitHub Pages" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  </a>
+  <a href="https://docs.github.com/es" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://docs.github.com/es/pages" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white" alt="GitHub Pages" />
+  </a>
+  <a href="https://docs.gitlab.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab" />
+  </a>
+  <a href="https://code.visualstudio.com/docs" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  </a>
   <img src="https://img.shields.io/badge/Hercules%20%28Mainframe%29-5D3FD3?style=flat-square&logo=ibm&logoColor=white" alt="Hercules Mainframe Emulator" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
