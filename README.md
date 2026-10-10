@@ -18,7 +18,7 @@
 
 - 📫 **Contactame: juanimarcosmerlo@gmail.com**
 
-- 💼 **Curriculum vitae**: <a href="https://drive.google.com/file/d/15fyyON7X8YtyoGyZD2Ja2c-c81RKh1lz/view?usp=sharing" target="_blank" download="CV_JuanIgnacio-MarcosMerlo.pdf"> <img src="https://github.com/user-attachments/assets/0a3ba7b7-712f-4af5-85d8-29708e9657d2" align="center" heighr="30" width="40" alt="cv_JuanIgnacioMarcosMerlo"/> </a>
+- 💼 **Curriculum vitae**: <a href="https://drive.google.com/file/d/1NkM6s-PcLe1QQ9NFJbz_bB08wdte72eg/view?usp=drive_link" target="_blank" download="CV_JuanIgnacio-MarcosMerlo.pdf"> <img src="https://github.com/user-attachments/assets/0a3ba7b7-712f-4af5-85d8-29708e9657d2" align="center" heighr="30" width="40" alt="cv_JuanIgnacioMarcosMerlo"/> </a>
 
 - 👨‍💻**Porfolio:** [https://porfoliojuanignaciomarcosmerlo.vercel.app/](https://porfoliojuanignaciomarcosmerlo.vercel.app/)
 
