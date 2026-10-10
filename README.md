@@ -76,5 +76,6 @@
  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </div>
 
+---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanignaciomarcosmerlo&label=Profile%20views&color=0e75b6&style=flat" alt="juanignaciomarcosmerlo" /> </p>
 
