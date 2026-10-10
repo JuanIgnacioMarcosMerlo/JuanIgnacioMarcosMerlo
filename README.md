@@ -40,16 +40,22 @@
   
    **Actualmente estoy en búsqueda de mi primera oportunidad laboral en IT, con el objetivo de seguir profundizando mis conocimientos en tecnologías IBM y desarrollarme profesionalmente como Desarrollador COBOL Mainframe Jr., participando en proyectos de mantenimiento, procesamiento batch, desarrollo online y modernización de sistemas.**
 
-- 📫 **Contactame: juanimarcosmerlo@gmail.com**
+## 🤝 **Conectate conmigo:**
 
-- 💼 **Curriculum vitae**: <a href="https://drive.google.com/file/d/1NkM6s-PcLe1QQ9NFJbz_bB08wdte72eg/view?usp=drive_link" target="_blank" download="CV_JuanIgnacio-MarcosMerlo.pdf"> <img src="https://github.com/user-attachments/assets/0a3ba7b7-712f-4af5-85d8-29708e9657d2" align="center" heighr="30" width="40" alt="cv_JuanIgnacioMarcosMerlo"/> </a>
-
-- 👨‍💻**Porfolio:** [https://porfoliojuanignaciomarcosmerlo.vercel.app/](https://porfoliojuanignaciomarcosmerlo.vercel.app/)
-
-<h3 align="left">Conectate conmigo:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/juan-ignacio-marcos-merlo/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-ignacio-marcos-merlo" height="30" width="40" /></a>
-</p>
+<div align="left">
+  <a href="https://www.linkedin.com/in/juan-ignacio-marcos-merlo/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:juanimarcosmerlo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://drive.google.com/file/d/1NkM6s-PcLe1QQ9NFJbz_bB08wdte72eg/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/CV-4285F4?style=flat-square&logo=googledrive&logoColor=white" alt="Curriculum Vitae" />
+  </a>
+  <a href="https://porfoliojuanignaciomarcosmerlo.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
 
 ## 💻 **Habilidades Técnicas**
 <div align="center"> 
