@@ -7,7 +7,10 @@
 # Buenos días 👋, soy Juan Ignacio Marcos Merlo.
 
 </div>
-<h3 align="center">Desarrollador COBOL en entornos MAINFRAME</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Desarrollador+COBOL+en+entornos+MAINFRAME"
+       alt="Desarrollador COBOL en entornos MAINFRAME" />
+</div>
 
 
 ## 💬 **Sobre mi:**
