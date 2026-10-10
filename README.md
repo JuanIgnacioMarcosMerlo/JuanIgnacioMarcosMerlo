@@ -7,7 +7,7 @@
 <div align="center">
   <p style="font-size: 2em; font-weight: bold; margin-bottom: 10px;">
     
-# Buenos días 👋, soy Juan Ignacio Marcos Merlo.
+## Buenos días 👋, soy Juan Ignacio Marcos Merlo.
   
   </p>
 
