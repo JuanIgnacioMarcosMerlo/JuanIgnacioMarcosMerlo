@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/bw0Orop.png" alt="juan-ignacio-marcos-merlo-banner" width="100%" />
 </p>
 
-<h1 align="center">Buenos días 👋, soy Juan Ignacio Marcos Merlo.</h1>
+<h1 align="center"># Buenos días 👋, soy Juan Ignacio Marcos Merlo.</h1>
 <h3 align="center">Desarrollador COBOL en entornos MAINFRAME</h3>
 
 
