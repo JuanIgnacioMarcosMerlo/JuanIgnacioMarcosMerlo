@@ -4,16 +4,16 @@
 
 
 <div align="center">
-  <h1 style="font-size: 2.5em; border: none;">
-    Buenos días 👋, soy Juan Ignacio Marcos Merlo.
-  </h1>
-
-  <a href="https://www.linkedin.com/in/juan-ignacio-marcos-merlo/" target="_blank" rel="noopener noreferrer">
+   <a href="https://www.linkedin.com/in/juan-ignacio-marcos-merlo/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:juanimarcosmerlo@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <h1 style="font-size: 2.5em; border: none;">
+    Buenos días 👋, soy Juan Ignacio Marcos Merlo.
+  </h1>
+
 </div>
 
 ---
