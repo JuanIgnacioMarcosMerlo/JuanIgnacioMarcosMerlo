@@ -8,7 +8,7 @@
 
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Desarrollador+COBOL+en+entornos+MAINFRAME"
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Desarrollador+COBOL+en+entornos+MAINFRAME."
        alt="Desarrollador COBOL en entornos MAINFRAME" />
 </div>
 
