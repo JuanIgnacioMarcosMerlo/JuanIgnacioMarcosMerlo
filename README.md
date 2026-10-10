@@ -13,6 +13,7 @@
                   Mi objetivo es seguir creciendo profesionalmente en proyectos que involucren mantenimiento, migración o modernización de sistemas, aportando valor desde el análisis, la implementación y el trabajo colaborativo. Siempre con actitud proactiva, pensamiento crítico y vocación de servicio.**
   
 -  🎯 **Objetivo profesional:**
+  
    **Actualmente estoy en búsqueda de mi primera oportunidad laboral en IT, con el objetivo de seguir profundizando mis conocimientos en tecnologías IBM y desarrollarme profesionalmente como Desarrollador COBOL Mainframe Jr., participando en proyectos de mantenimiento, procesamiento batch, desarrollo online y modernización de sistemas.**
 
 - 📫 **Contactame: juanimarcosmerlo@gmail.com**
