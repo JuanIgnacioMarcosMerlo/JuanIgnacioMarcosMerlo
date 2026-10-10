@@ -13,10 +13,8 @@
   <h1 style="font-size: 2.5em; border: none;">
     Buenos días 👋, soy Juan Ignacio Marcos Merlo.
   </h1>
-
 </div>
 
----
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Desarrollador+COBOL+en+entornos+MAINFRAME."
