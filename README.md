@@ -2,19 +2,16 @@
   <img src="https://i.imgur.com/bw0Orop.png" alt="juan-ignacio-marcos-merlo-banner" width="100%" />
 </p>
 
+
 <div align="center">
+  <h1>Buenos días 👋, soy Juan Ignacio Marcos Merlo.</h1>
 
-  <h1>
-    Buenos días 👋, soy Juan Ignacio Marcos Merlo.
-    <a href="https://www.linkedin.com/in/juan-ignacio-marcos-merlo/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:juanimarcosmerlo@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-  </h1>
-  
-
+  <a href="https://www.linkedin.com/in/juan-ignacio-marcos-merlo/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:juanimarcosmerlo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Desarrollador+COBOL+en+entornos+MAINFRAME."
