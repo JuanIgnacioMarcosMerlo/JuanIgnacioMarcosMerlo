@@ -6,21 +6,21 @@
 <h3 align="center">Desarrollador COBOL en entornos MAINFRAME</h3>
 
 
-- 💬 **Sobre mi:**
+## 💬 **Sobre mi:**
 
-**Soy desarrollador de software y estoy cursando el último año de la Tecnicatura Universitaria en Programación en la Universidad Nacional Guillermo Brown. A lo largo de mi formación y desarrollo profesional, fui orientando mi perfil hacia el ecosistema IBM Mainframe, con especial interés en el desarrollo y mantenimiento de sistemas empresariales.
+**Soy desarrollador de software y estoy cursando el último año de la Tecnicatura Universitaria en Programación en la Universidad Nacional Guillermo Brown. A lo largo de mi formación y desarrollo profesional, fui orientando mi perfil hacia el ecosistema IBM Mainframe, con especial interés en el desarrollo y mantenimiento de sistemas empresariales.**
 
-Realicé una capacitación en desarrollo COBOL de aproximadamente siete meses, durante la cual trabajé con tecnologías como COBOL, JCL, CICS, DB2, VSAM y QSAM. Como parte de esta formación, realicé prácticas en un entorno Mainframe real, utilizando Marist, donde adquirí experiencia práctica con TSO/ISPF y con los procesos de desarrollo, compilación, ejecución y prueba de programas.
+**Realicé una capacitación en desarrollo COBOL de aproximadamente siete meses, durante la cual trabajé con tecnologías como COBOL, JCL, CICS, DB2, VSAM y QSAM. Como parte de esta formación, realicé prácticas en un entorno Mainframe real, utilizando Marist, donde adquirí experiencia práctica con TSO/ISPF y con los procesos de desarrollo, compilación, ejecución y prueba de programas.**
 
-Finalizada la capacitación, continué profundizando y consolidando mis conocimientos mediante proyectos y ejercicios prácticos en un entorno z/OS emulado con Hercules, buscando ampliar mi comprensión del funcionamiento de un entorno Mainframe y de la integración entre sus diferentes componentes.
+**Finalizada la capacitación, continué profundizando y consolidando mis conocimientos mediante proyectos y ejercicios prácticos en un entorno z/OS emulado con Hercules, buscando ampliar mi comprensión del funcionamiento de un entorno Mainframe y de la integración entre sus diferentes componentes.**
 
-Durante este recorrido desarrollé programas COBOL batch para la validación y el procesamiento de información, apareo de archivos, cortes de control simples y múltiples, y generación de reportes. Trabajé con archivos secuenciales QSAM y archivos VSAM, incluyendo la creación y gestión de estructuras KSDS y ESDS, así como con JCL para la ejecución de programas y utilitarios como SORT, IDCAMS, IEBGENER e IEBCOPY.
+**Durante este recorrido desarrollé programas COBOL batch para la validación y el procesamiento de información, apareo de archivos, cortes de control simples y múltiples, y generación de reportes. Trabajé con archivos secuenciales QSAM y archivos VSAM, incluyendo la creación y gestión de estructuras KSDS y ESDS, así como con JCL para la ejecución de programas y utilitarios como SORT, IDCAMS, IEBGENER e IEBCOPY.**
 
-También desarrollé aplicaciones online con CICS, trabajando con pantallas BMS, mapas, COMMAREA y programación pseudo-conversacional. En el ámbito de bases de datos, integré COBOL con DB2 mediante SQL embebido, consultas, actualizaciones y cursores, trabajando con SQLCA y SQLCODE para el manejo de resultados y errores. Además, practiqué los procesos de compilación y ejecución de programas COBOL integrados con CICS y DB2.
+**También desarrollé aplicaciones online con CICS, trabajando con pantallas BMS, mapas, COMMAREA y programación pseudo-conversacional. En el ámbito de bases de datos, integré COBOL con DB2 mediante SQL embebido, consultas, actualizaciones y cursores, trabajando con SQLCA y SQLCODE para el manejo de resultados y errores. Además, practiqué los procesos de compilación y ejecución de programas COBOL integrados con CICS y DB2.**
 
-Este recorrido me permitió comprender mejor cómo interactúan los procesos batch, las aplicaciones online, los archivos y las bases de datos dentro de una solución Mainframe, para continuar fortaleciendo mis habilidades mediante la práctica constante.**
+**Este recorrido me permitió comprender mejor cómo interactúan los procesos batch, las aplicaciones online, los archivos y las bases de datos dentro de una solución Mainframe, y continuar fortaleciendo mis habilidades mediante la práctica constante.**
   
-- 🎯 **Objetivo profesional:**
+## 🎯 **Objetivo profesional:**
   
    **Actualmente estoy en búsqueda de mi primera oportunidad laboral en IT, con el objetivo de seguir profundizando mis conocimientos en tecnologías IBM y desarrollarme profesionalmente como Desarrollador COBOL Mainframe Jr., participando en proyectos de mantenimiento, procesamiento batch, desarrollo online y modernización de sistemas.**
 
