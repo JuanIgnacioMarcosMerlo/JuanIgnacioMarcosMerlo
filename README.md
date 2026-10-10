@@ -3,8 +3,14 @@
 </p>
 
 
+<style>
+  h1 {
+    border-bottom: none !important;
+  }
+</style>
+
 <div align="center">
-  <h1 style="border-bottom: none;">Buenos días 👋, soy Juan Ignacio Marcos Merlo.</h1>
+  <h1>Buenos días 👋, soy Juan Ignacio Marcos Merlo.</h1>
 
   <a href="https://www.linkedin.com/in/juan-ignacio-marcos-merlo/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
