@@ -67,6 +67,13 @@
   <img src="https://img.shields.io/badge/Zowe-7D4AFF?style=flat-square">
 
  <h4><strong>[ Otras tecnologías ]</strong></h4>
+ <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+ <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+ <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+ <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+ <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+ <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanignaciomarcosmerlo&label=Profile%20views&color=0e75b6&style=flat" alt="juanignaciomarcosmerlo" /> </p>
