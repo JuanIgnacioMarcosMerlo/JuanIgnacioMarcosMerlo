@@ -3,7 +3,7 @@
 </p>
 
 
-<div align="center">
+<div align="center" style="text-decoration: none;">
    <a href="https://www.linkedin.com/in/juan-ignacio-marcos-merlo/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
