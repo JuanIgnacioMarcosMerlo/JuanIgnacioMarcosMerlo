@@ -5,16 +5,15 @@
 <h1 align="center">Buenos días 👋, soy Juan Ignacio Marcos Merlo.</h1>
 <h3 align="center">Desarrollador COBOL en entornos MAINFRAME</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juanignaciomarcosmerlo&label=Profile%20views&color=0e75b6&style=flat" alt="juanignaciomarcosmerlo" /> </p>
-
-- 🔭 **Actualmente estoy en busqueda de mi primer trabajo IT.**
-
 
 - 💬 **Sobre mi: Me destaco como desarrollador COBOL en entornos MAINFRAME, conocimientos en programación estructurada, manejo eficiente de sistemas legados y un fuerte compromiso con la optimización de procesos. Disfruto trabajando en equipo, donde puedo aportar soluciones técnicas claras y efectivas, siempre enfocado en cumplir objetivos y superar 
                   desafíos.<br/><br/>
                   Soy una persona meticulosa, responsable y dedicada. Valoro el trabajo bien hecho, el aprendizaje constante y la mejora continua. Mi formación y experiencia me han permitido desarrollar una visión integral que combina lo mejor del mundo tradicional con herramientas y metodologías modernas.<br/><br/>
                   Además del ecosistema Mainframe (COBOL, CICS, DB2, JCL, TSO/ISPF, VSAM/QSAM), cuento con conocimientos en tecnologías modernas como React, Node.js, Java, .NET, y herramientas de desarrollo como Docker, AWS, Git, y bases de datos SQL y NoSQL.<br/><br/>
                   Mi objetivo es seguir creciendo profesionalmente en proyectos que involucren mantenimiento, migración o modernización de sistemas, aportando valor desde el análisis, la implementación y el trabajo colaborativo. Siempre con actitud proactiva, pensamiento crítico y vocación de servicio.**
+  
+-  🎯 **Objetivo profesional:**
+   **Actualmente estoy en búsqueda de mi primera oportunidad laboral en IT, con el objetivo de seguir profundizando mis conocimientos en tecnologías IBM y desarrollarme profesionalmente como Desarrollador COBOL Mainframe Jr., participando en proyectos de mantenimiento, procesamiento batch, desarrollo online y modernización de sistemas.**
 
 - 📫 **Contactame: juanimarcosmerlo@gmail.com**
 
@@ -44,5 +43,5 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=juanignaciomarcosmerlo&label=Profile%20views&color=0e75b6&style=flat" alt="juanignaciomarcosmerlo" /> </p>
 
