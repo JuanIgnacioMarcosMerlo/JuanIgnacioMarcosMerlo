@@ -51,7 +51,7 @@
 <a href="https://www.linkedin.com/in/juan-ignacio-marcos-merlo/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-ignacio-marcos-merlo" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Habilidades:</h3>
+## 💻 **Habilidades Técnicas**
 <p align="left"> 
   <a href="https://www.ibm.com/docs/es/i/7.6.0?topic=languages-cobol" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/borrowbits.com/wp-content/uploads/2013/07/cobol.gif" alt="COBOL" width="40" height="40"/> </a>
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg?utm_source=es.wikipedia.org&utm_campaign=imageinfo&utm_content=original" alt="IBM" width="40" height="40"/> </a>     
