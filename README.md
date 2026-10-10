@@ -6,7 +6,7 @@
 
   <h1>Buenos días 👋, soy Juan Ignacio Marcos Merlo.</h1>
 
-  <a href="https://www.linkedin.com/in/juan-ignacio-marcos-merlo/">
+  <a href="https://www.linkedin.com/in/juan-ignacio-marcos-merlo/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:juanimarcosmerlo@gmail.com">
