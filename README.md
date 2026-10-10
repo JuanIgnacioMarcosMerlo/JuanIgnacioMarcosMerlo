@@ -30,7 +30,7 @@
 <h3 align="left">Habilidades:</h3>
 <p align="left"> 
   <a href="https://www.ibm.com/docs/es/i/7.6.0?topic=languages-cobol" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/borrowbits.com/wp-content/uploads/2013/07/cobol.gif" alt="COBOL" width="40" height="40"/> </a>
-  <a href="#" target="_blank" rel="noreferrer"> <img src="https://es.wikipedia.org/wiki/IBM#/media/Archivo:IBM_logo.svg" alt="IBM" width="40" height="40"/> </a>     
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg?utm_source=es.wikipedia.org&utm_campaign=imageinfo&utm_content=original" alt="IBM" width="40" height="40"/> </a>     
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
