@@ -80,13 +80,13 @@
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
 
   <h4><strong>[ Análisis, Diseño y Metodologías ]</strong></h4>
-  <img src="https://img.shields.io/badge/UML-3A3A3A?style=flat-square" alt="UML" />
-  <img src="https://img.shields.io/badge/DFD-3A3A3A?style=flat-square" alt="DFD" />
-  <img src="https://img.shields.io/badge/Casos%20de%20Uso-3A3A3A?style=flat-square" alt="Casos de Uso" />
-  <img src="https://img.shields.io/badge/Historias%20de%20Usuario-3A3A3A?style=flat-square" alt="Historias de Usuario" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Scrum-009FDA?style=flat-square" alt="Scrum" />
-  <img src="https://img.shields.io/badge/Kanban-0052CC?style=flat-square&logo=trello&logoColor=white" alt="Kanban" />
+  <img src="https://img.shields.io/badge/UML-00599C?style=flat-square" alt="UML" />
+  <img src="https://img.shields.io/badge/DFD-2B579A?style=flat-square" alt="DFD" />
+  <img src="https://img.shields.io/badge/Casos%20de%20Uso-107C41?style=flat-square" alt="Casos de Uso" />
+  <img src="https://img.shields.io/badge/Historias%20de%20Usuario-D83B01?style=flat-square" alt="Historias de Usuario" />
+  <img src="https://img.shields.io/badge/Scrum-009FDA?style=flat-square&logo=scrumalliance&logoColor=white" alt="Scrum" />
+  <img src="https://img.shields.io/badge/Kanban-0052CC?style=flat-square" alt="Kanban" />
   <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white" alt="Trello" />
 </div>
 
