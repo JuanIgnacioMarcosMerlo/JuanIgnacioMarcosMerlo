@@ -46,12 +46,15 @@
   <a href="https://www.linkedin.com/in/juan-ignacio-marcos-merlo/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:juanimarcosmerlo@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://drive.google.com/file/d/1NkM6s-PcLe1QQ9NFJbz_bB08wdte72eg/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/CV-4285F4?style=flat-square&logo=googledrive&logoColor=white" alt="Curriculum Vitae" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://porfoliojuanignaciomarcosmerlo.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
