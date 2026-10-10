@@ -54,16 +54,16 @@
 ## 💻 **Habilidades Técnicas**
 <div align="center"> 
   <h4><strong>[ Mainframe / IBM ]</strong></h4>
-  <img src="https://img.shields.io/badge/COBOL-00599C?style=flat-square">
-  <img src="https://img.shields.io/badge/JCL-0F62FE?style=flat-square">
-  <img src="https://img.shields.io/badge/CICS-054ADA?style=flat-square">
-  <img src="https://img.shields.io/badge/BMS-1F70C1?style=flat-square">
-  <img src="https://img.shields.io/badge/VSAM%20%2F%20QSAM-1F70C1?style=flat-square">
-  <img src="https://img.shields.io/badge/DB2-052FAD?style=flat-square&logo=ibmdb2&logoColor=white">
-  <img src="https://img.shields.io/badge/TSO%20%2F%20ISPF-5AA6E7?style=flat-square">
-  <img src="https://img.shields.io/badge/SDSF-0043CE?style=flat-square">
-  <img src="https://img.shields.io/badge/SPUFI-4589FF?style=flat-square">
-  <img src="https://img.shields.io/badge/Zowe-7D4AFF?style=flat-square">
+  <img src="https://img.shields.io/badge/COBOL-00599C?style=flat-square&logo=gnome&logoColor=white" alt="COBOL" />
+  <img src="https://img.shields.io/badge/JCL-0F62FE?style=flat-square&logo=ibm&logoColor=white" alt="JCL" />
+  <img src="https://img.shields.io/badge/CICS-054ADA?style=flat-square&logo=ibm&logoColor=white" alt="CICS" />
+  <img src="https://img.shields.io/badge/BMS-2B579A?style=flat-square" alt="BMS" />
+  <img src="https://img.shields.io/badge/VSAM%20%2F%20QSAM-107C41?style=flat-square" alt="VSAM / QSAM" />
+  <img src="https://img.shields.io/badge/DB2-052FAD?style=flat-square&logo=ibmdb2&logoColor=white" alt="DB2" />
+  <img src="https://img.shields.io/badge/SPUFI-1168B1?style=flat-square" alt="SPUFI" />
+  <img src="https://img.shields.io/badge/TSO%20%2F%20ISPF-002D62?style=flat-square" alt="TSO / ISPF" />
+  <img src="https://img.shields.io/badge/SDSF-336699?style=flat-square" alt="SDSF" />
+  <img src="https://img.shields.io/badge/Zowe-6C2DC7?style=flat-square&logo=zowe&logoColor=white" alt="Zowe" />
 
   <h4><strong>[ Bases de Datos ]</strong></h4>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white" alt="SQL" />
