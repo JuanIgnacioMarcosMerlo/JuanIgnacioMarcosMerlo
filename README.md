@@ -54,7 +54,7 @@
 ## 💻 **Habilidades Técnicas**
 <div align="center"> 
   <h4><strong>[ Mainframe / IBM ]</strong></h4>
-  <img src="https://img.shields.io/badge/COBOL-00599C?style=flat-square&logo=gnome&logoColor=white" alt="COBOL" />
+  <img src="https://img.shields.io/badge/COBOL-00599C?style=flat-square" alt="COBOL" />
   <img src="https://img.shields.io/badge/JCL-0F62FE?style=flat-square&logo=ibm&logoColor=white" alt="JCL" />
   <img src="https://img.shields.io/badge/CICS-054ADA?style=flat-square&logo=ibm&logoColor=white" alt="CICS" />
   <img src="https://img.shields.io/badge/BMS-2B579A?style=flat-square" alt="BMS" />
