@@ -68,16 +68,35 @@
 ## 💻 **Habilidades Técnicas**
 <div align="center"> 
   <h4><strong>[ Mainframe / IBM ]</strong></h4>
+  <a href="https://www.ibm.com/docs/es/i/7.6.0?topic=languages-cobol" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/COBOL-00599C?style=flat-square" alt="COBOL" />
+  </a>
   <img src="https://img.shields.io/badge/JCL-0F62FE?style=flat-square&logo=ibm&logoColor=white" alt="JCL" />
-  <img src="https://img.shields.io/badge/CICS-054ADA?style=flat-square&logo=ibm&logoColor=white" alt="CICS" />
-  <img src="https://img.shields.io/badge/BMS-2B579A?style=flat-square" alt="BMS" />
-  <img src="https://img.shields.io/badge/VSAM%20%2F%20QSAM-107C41?style=flat-square" alt="VSAM / QSAM" />
-  <img src="https://img.shields.io/badge/DB2-052FAD?style=flat-square&logo=ibmdb2&logoColor=white" alt="DB2" />
-  <img src="https://img.shields.io/badge/SPUFI-1168B1?style=flat-square" alt="SPUFI" />
+  <a href="https://www.ibm.com/docs/es/cics-ts/6.x?topic=installing" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/CICS-054ADA?style=flat-square&logo=ibm&logoColor=white" alt="CICS" />
+  </a>
+  <a href="https://www.ibm.com/docs/es/cics-ts/6.x?topic=support-creating-bms-map" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/BMS-2B579A?style=flat-square" alt="BMS" />
+  </a>
+  <a href="https://www.ibm.com/docs/es/cobol-zos/6.4.0?topic=files-vsam" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/VSAM-107C41?style=flat-square" alt="VSAM" />
+  </a>
+  <a href="https://www.ibm.com/docs/es/cobol-zos/6.4.0?topic=program-processing-qsam-files" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/QSAM-0E6235?style=flat-square" alt="QSAM" />
+  </a>
+  <a href="https://www.ibm.com/docs/en/db2-for-zos/12.0.0?topic=db2-commands" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/DB2-052FAD?style=flat-square&logo=ibmdb2&logoColor=white" alt="DB2" />
+  </a>
+  <a href="https://www.ibm.com/docs/es/db2-for-zos/13.0.0?topic=spufi-content-input-data-set" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/SPUFI-1168B1?style=flat-square" alt="SPUFI" />
+  </a>
   <img src="https://img.shields.io/badge/TSO%20%2F%20ISPF-002D62?style=flat-square" alt="TSO / ISPF" />
-  <img src="https://img.shields.io/badge/SDSF-336699?style=flat-square" alt="SDSF" />
-  <img src="https://img.shields.io/badge/Zowe-6C2DC7?style=flat-square&logo=zowe&logoColor=white" alt="Zowe" />
+  <a href="https://www.ibm.com/docs/en/zos/3.1.0?topic=guide-introduction-sdsf" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/SDSF-336699?style=flat-square" alt="SDSF" />
+  </a>
+  <a href="https://docs.zowe.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Zowe-6C2DC7?style=flat-square&logo=zowe&logoColor=white" alt="Zowe" />
+  </a>
 
   <h4><strong>[ Bases de Datos ]</strong></h4>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white" alt="SQL" />
