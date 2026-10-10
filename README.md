@@ -54,7 +54,6 @@
 ## 💻 **Habilidades Técnicas**
 <div align="center"> 
   <h4><strong>[ Mainframe / IBM ]</strong></h4>
-
   <img src="https://img.shields.io/badge/COBOL-00599C?style=flat-square">
   <img src="https://img.shields.io/badge/JCL-0F62FE?style=flat-square">
   <img src="https://img.shields.io/badge/CICS-054ADA?style=flat-square">
@@ -68,6 +67,7 @@
 
   <h4><strong>[ Bases de Datos ]</strong></h4>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
 
   <h4><strong>[ Otras tecnologías ]</strong></h4>
@@ -78,6 +78,16 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+
+  <h4><strong>[ Análisis, Diseño y Metodologías ]</strong></h4>
+  <img src="https://img.shields.io/badge/UML-3A3A3A?style=flat-square" alt="UML" />
+  <img src="https://img.shields.io/badge/DFD-3A3A3A?style=flat-square" alt="DFD" />
+  <img src="https://img.shields.io/badge/Casos%20de%20Uso-3A3A3A?style=flat-square" alt="Casos de Uso" />
+  <img src="https://img.shields.io/badge/Historias%20de%20Usuario-3A3A3A?style=flat-square" alt="Historias de Usuario" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Scrum-009FDA?style=flat-square" alt="Scrum" />
+  <img src="https://img.shields.io/badge/Kanban-0052CC?style=flat-square&logo=trello&logoColor=white" alt="Kanban" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white" alt="Trello" />
 </div>
 
 ---
