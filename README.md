@@ -10,9 +10,7 @@
   <a href="mailto:juanimarcosmerlo@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <h1 style="font-size: 2.5em; border: none;">
-    Buenos días 👋, soy Juan Ignacio Marcos Merlo.
-  </h1>
+# Buenos días 👋, soy Juan Ignacio Marcos Merlo.
 </div>
 
 
