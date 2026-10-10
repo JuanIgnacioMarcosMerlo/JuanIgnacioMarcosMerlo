@@ -52,21 +52,21 @@
 </p>
 
 ## 💻 **Habilidades Técnicas**
-<p align="left"> 
-  <a href="https://www.ibm.com/docs/es/i/7.6.0?topic=languages-cobol" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/borrowbits.com/wp-content/uploads/2013/07/cobol.gif" alt="COBOL" width="40" height="40"/> </a>
-  <a href="#" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg?utm_source=es.wikipedia.org&utm_campaign=imageinfo&utm_content=original" alt="IBM" width="40" height="40"/> </a>     
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
-  <a href="https://www.java.com/es/" target="_blank" rel="noreferrer"> <img src="https://images.icon-icons.com/2699/PNG/512/java_logo_icon_169577.png" alt="JAVA" width="40" height="40"/> </a>
-  <a href="https://learn.microsoft.com/es-es/collections/yz26f8y64n7k07?WT.mc_id=dotnet-35129-website" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/C_Sharp_Logo_2023.svg" alt="C#" width="40" height="40"/> </a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" alt="nextjs" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</p>
+<div align="center"> 
+  <h4><strong>[ Mainframe ] [ IBM ]</strong></h4>
+
+  <img src="https://img.shields.io/badge/COBOL-00599C?style=flat-square">
+  <img src="https://img.shields.io/badge/JCL-0F62FE?style=flat-square">
+  <img src="https://img.shields.io/badge/CICS-054ADA?style=flat-square">
+  <img src="https://img.shields.io/badge/BMS-1F70C1?style=flat-square">
+  <img src="https://img.shields.io/badge/VSAM%20%2F%20QSAM-1F70C1?style=flat-square">
+  <img src="https://img.shields.io/badge/DB2-052FAD?style=flat-square&logo=ibmdb2&logoColor=white">
+  <img src="https://img.shields.io/badge/TSO%20%2F%20ISPF-5AA6E7?style=flat-square">
+  <img src="https://img.shields.io/badge/SDSF-0043CE?style=flat-square">
+  <img src="https://img.shields.io/badge/SPUFI-4589FF?style=flat-square">
+  <img src="https://img.shields.io/badge/Zowe-7D4AFF?style=flat-square">
+
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanignaciomarcosmerlo&label=Profile%20views&color=0e75b6&style=flat" alt="juanignaciomarcosmerlo" /> </p>
 
